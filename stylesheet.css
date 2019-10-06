@@ -1,0 +1,39 @@
+body {
+
+    background-image: url("bubble.jpg");
+    
+    /* Background vector created by freepik - www.freepik.com</a>") */
+}
+
+h2 {
+    border-bottom: 2px solid rgb(95, 95, 95);
+}
+
+.aboutme {
+
+    padding-bottom: 20px;
+    
+}
+
+.bodycontainer {
+    background-color: #ffffff;
+    margin-top: 20px;
+    
+}
+.container {
+    max-width: 960px;
+    
+}
+img {
+    height: 400px;
+    width: 300px;
+    padding-right: 20px;
+}
+.boldtext {
+
+    font-weight: bolder;
+}
+.footertext {
+
+    text-align: center;
+}
