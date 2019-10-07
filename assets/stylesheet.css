@@ -43,6 +43,24 @@ img {
 
 /* Portfolio Page */
 
+.portcontainer {
+  /* padding-left: 100px; */
+}
+
+.portimages {
+  width: 350px;
+  height: 150px;
+  padding: 10px;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  
+
+}
+.picrow {
+  margin-right: 10px;
+}
+
 
 /* Contact Page */
 
