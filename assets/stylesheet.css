@@ -44,22 +44,21 @@ img {
 /* Portfolio Page */
 
 .portcontainer {
-  /* padding-left: 100px; */
+  /* margin: 20px; */
+  padding-bottom: 20px;
 }
 
 .portimages {
-  width: 350px;
+  width: 250px;
   height: 150px;
   padding: 10px;
-  display: block; 
-  margin-left: auto; 
-  margin-right: auto; 
+  display: block;  
+  /* margin-left: auto;  */
+  /* margin-right: auto;  */
   
 
 }
-.picrow {
-  margin-right: 10px;
-}
+
 
 
 /* Contact Page */
