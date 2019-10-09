@@ -1,14 +1,31 @@
 
 /* About Me Page */
 
+
+
+
 body {
 
-    background-image: url("images/bubble.jpg");
+    background-image: url("images/2224561.jpg");
     
     /* Background vector created by freepik - www.freepik.com</a>") */
 }
 
-h2 {
+.navbar {
+  padding: 0px;
+}
+
+.h1 {
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  background-color: #8b6def;
+  
+}
+
+
+ h2 {
     border-bottom: 2px solid rgb(95, 95, 95);
 }
 
@@ -64,15 +81,12 @@ img {
 .portext p {
   position: absolute; 
   width: 230px;
+  height: 40px;
   text-align: center;
   margin-top: -80px; 
-
-  
-  
-
-
-
-  background: #45a049;
+  font-size: 22px;
+  color: #ffffff;
+  background: #8b6def;
 }
 
 
