@@ -17,7 +17,9 @@
         "panel.border": "#d5b275",
         "sideBar.border": "#d5b275",
         "editorGroup.border": "#d5b275",
-        "tab.activeBorder": "#d5b275"
+        "tab.activeBorder": "#d5b275",
+        "statusBar.border": "#c99c4e",
+        "titleBar.border": "#c99c4e"
     },
     "peacock.color": "#c99c4e"
 }
