@@ -6069,7 +6069,11 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: rgb(236, 110, 247) !important;
+}
+
+.img-head {
+  background: url("../assets/img/headbg.jpg");
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6130,7 +6134,7 @@ button.bg-danger:focus {
 
 .bg-light {
   background-color: #f8f9fa !important;
-}
+} 
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
@@ -9744,10 +9748,9 @@ button.bg-dark:focus {
 .font-italic {
   font-style: italic !important;
 }
-
 .text-white {
   color: #fff !important;
-}
+} 
 
 .text-primary {
   color: #1abc9c !important;
