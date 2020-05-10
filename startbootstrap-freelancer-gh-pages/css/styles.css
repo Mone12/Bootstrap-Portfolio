@@ -10029,6 +10029,10 @@ h3 {
   line-height: 3.1rem;
 }
 
+nav {
+  background-color: rgb(121, 10, 231);
+}
+
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -10073,11 +10077,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #d557ff;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #d557ff;
   }
 
   #mainNav.navbar-shrink {
