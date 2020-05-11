@@ -4354,7 +4354,9 @@ input[type=button].btn-block {
   border-bottom-right-radius: 0.5rem;
   border-bottom-left-radius: 0.5rem;
 }
-
+.contact-card {
+  height: 420px;
+}
 .card-body {
   flex: 1 1 auto;
   min-height: 1px;
@@ -10148,12 +10150,12 @@ nav {
 }
 
 .portfolio-modal .portfolio-modal-title {
-  font-size: 2.25rem;
+  /* font-size: 2.25rem; */
   line-height: 2rem;
 }
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
-    font-size: 3rem;
+    /* font-size: 3rem; */
     line-height: 2.5rem;
   }
 }
@@ -10164,7 +10166,7 @@ nav {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #1abc9c;
+  color: rgba(188, 120, 255, 0.886);
   opacity: 1;
 }
 
