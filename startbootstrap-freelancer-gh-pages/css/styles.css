@@ -5453,8 +5453,9 @@ a.close.disabled {
 .modal-content {
   position: relative;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   width: 100%;
+  
   pointer-events: auto;
   background-color: #fff;
   background-clip: padding-box;
@@ -6610,6 +6611,7 @@ button.bg-dark:focus {
 
 .justify-content-center {
   justify-content: center !important;
+ 
 }
 
 .justify-content-between {
