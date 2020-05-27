@@ -198,6 +198,13 @@ pre {
   height: 300px;
 }
 
+.main-text {
+  position: relative;
+  bottom: 139px;
+  font-size: 23px;
+  font-weight: bold;
+}
+
 figure {
   margin: 0 0 1rem;
 }
@@ -10149,6 +10156,7 @@ nav {
   }
 }
 .portfolio .portfolio-item {
+
   cursor: pointer;
   position: relative;
   display: block;
