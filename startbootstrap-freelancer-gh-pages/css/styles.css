@@ -192,6 +192,12 @@ pre {
   overflow: auto;
 }
 
+.img-fluid {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+
 figure {
   margin: 0 0 1rem;
 }
