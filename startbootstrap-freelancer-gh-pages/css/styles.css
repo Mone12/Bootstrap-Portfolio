@@ -199,8 +199,8 @@ pre {
 }
 
 .main-text {
-  position: relative;
-  bottom: 139px;
+  position: relative; 
+  bottom: 160px; 
   font-size: 23px;
   font-weight: bold;
 }
