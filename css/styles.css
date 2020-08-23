@@ -200,10 +200,6 @@ pre {
 
 .main-text {
   position: absolute; 
-  top: 20%;
-  left: 20%;
-  right: 20%;
-  /* bottom: 160px;  */
   font-size: 23px;
   font-weight: bold;
 }
