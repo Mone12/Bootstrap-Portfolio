@@ -4364,6 +4364,7 @@ input[type=button].btn-block {
   flex-direction: column;
   max-width: 100%;
   min-width: 0;
+  padding: 20px 0px 20px 20px;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
@@ -5530,7 +5531,7 @@ a.close.disabled {
 .modal-body {
   position: relative;
   flex: 1 1 auto;
-  padding: 4rem 1rem;
+  /* padding: 4rem 1rem; */
 }
 
 .modal-footer {
