@@ -4364,11 +4364,11 @@ input[type=button].btn-block {
   flex-direction: column;
   max-width: 100%;
   min-width: 0;
-  padding: 20px 0px 20px 20px;
+  padding: 20px;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 0.125rem solid rgba(0, 0, 0, 0.125);
+  border: 0.125rem solid rgba(188, 120, 255, 0.886);
   border-radius: 0.5rem;
 }
 .card > hr {
@@ -4476,6 +4476,11 @@ input[type=button].btn-block {
 
 .card-deck .card {
   margin-bottom: 1.5rem;
+}
+
+.badge {
+  background-color: rgb(121, 10, 231);
+  color: white;
 }
 @media (min-width: 576px) {
   .card-deck {
