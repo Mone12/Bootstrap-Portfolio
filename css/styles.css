@@ -89,6 +89,10 @@ p {
   margin-bottom: 1rem;
 }
 
+p.text-muted {
+  margin-right: 40px;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -653,7 +657,7 @@ pre code {
   position: relative;
   width: 100%;
   padding-right: 1.5rem;
-  padding-left: 2.9rem;
+  padding-left: 1.5rem;
 }
 
 .col {
@@ -4483,6 +4487,8 @@ input[type=button].btn-block {
 .card-deck .card {
   margin-bottom: 1.5rem;
 }
+
+
 
 .badge-container {
   margin-bottom: 40px;
