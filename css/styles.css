@@ -2875,6 +2875,12 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5);
 }
 
+.btn-light {
+  border-color:transparent;
+  background-color:rgb(228, 226, 226);
+  color: black;
+}
+
 .btn-outline-light {
   /* color: #f8f9fa; */
   color: #7908e7;
@@ -4368,7 +4374,7 @@ input[type=button].btn-block {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 0.125rem solid rgba(188, 120, 255, 0.886);
+  border: 0.125rem solid rgb(121, 10, 231);
   border-radius: 0.5rem;
 }
 .card > hr {
@@ -4476,6 +4482,10 @@ input[type=button].btn-block {
 
 .card-deck .card {
   margin-bottom: 1.5rem;
+}
+
+.badge-container {
+  margin-bottom: 40px;
 }
 
 .badge {
